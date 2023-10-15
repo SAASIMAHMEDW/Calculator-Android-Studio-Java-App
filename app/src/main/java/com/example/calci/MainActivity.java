@@ -259,9 +259,7 @@ public class MainActivity extends AppCompatActivity {
                 zeroTV = findViewById(R.id.resultAREA);
                 String og =  zeroTV.getText().toString();
                 zeroTV.setText(og+zero);
-//                String s =  oneTV.getText().toString();
 
-//                Toast.makeText(MainActivity.this, s, Toast.LENGTH_SHORT).show();
             }
         });
 
@@ -274,9 +272,7 @@ public class MainActivity extends AppCompatActivity {
                 openBTV = findViewById(R.id.resultAREA);
                 String og =  openBTV.getText().toString();
                 openBTV.setText(og+openB);
-//                String s =  oneTV.getText().toString();
 
-//                Toast.makeText(MainActivity.this, s, Toast.LENGTH_SHORT).show();
             }
         });
 
@@ -289,9 +285,7 @@ public class MainActivity extends AppCompatActivity {
                 closeBTV = findViewById(R.id.resultAREA);
                 String og =  closeBTV.getText().toString();
                 closeBTV.setText(og+closeB);
-//                String s =  oneTV.getText().toString();
 
-//                Toast.makeText(MainActivity.this, s, Toast.LENGTH_SHORT).show();
             }
         });
 //========================================
